@@ -1,731 +1,329 @@
 {
   "products": [
     {
-      "id": "0996880018",
-      "name": "Bolsa Wood Red Bull Bragantino Gym Sack Escudo",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/391883-600-600/0996880018_1.jpg?v=639081433240230000",
-      "productURL": "https://www.aesportiva.com.br/bolsa-wood-red-bull-bragantino-gym-sack-escudo-0996880018/p?bragantino=true"
-    },
-    {
-      "id": "0996870393",
-      "name": "Bolsa Wood Red Bull Bragantino Gym Sack Toro Loko",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/391884-600-600/0996870393_1.jpg?v=639081432605430000",
-      "productURL": "https://www.aesportiva.com.br/bolsa-wood-red-bull-bragantino-gym-sack-toro-loko-0996870393/p?bragantino=true"
-    },
-    {
-      "id": "0997180019",
-      "name": "Copo Térmico Wood Red Bull Bragantino Com Caixa De Som - 400 Ml",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/392876-600-600/0997180019_1.jpg?v=639088473134530000",
-      "productURL": "https://www.aesportiva.com.br/copo-termico-wood-red-bull-bragantino-com-caixa-de-som--400-ml-0997180019/p?bragantino=true"
-    },
-    {
-      "id": "0997100018",
-      "name": "Copo Térmico Wood Red Bull Bragantino - 320 Ml",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/391915-600-600/0997100018_1.jpg?v=639083130593170000",
-      "productURL": "https://www.aesportiva.com.br/copo-termico-wood-red-bull-bragantino--320-ml-0997100018/p?bragantino=true"
-    },
-    {
-      "id": "0997210837",
-      "name": "Caneca Térmica Wood Red Bull Bragantino - 800 Ml",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/392396-600-600/0997210837_1.jpg?v=639084018124470000",
-      "productURL": "https://www.aesportiva.com.br/caneca-termica-wood-red-bull-bragantino--800-ml-0997210837/p?bragantino=true"
-    },
-    {
-      "id": "0997070018",
-      "name": "Caneca Gel Wood Red Bull Bragantino Escudo - 400 Ml",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/391910-600-600/0997070018_1.jpg?v=639083128169330000",
-      "productURL": "https://www.aesportiva.com.br/caneca-gel-wood-red-bull-bragantino-escudo--400-ml-0997070018/p?bragantino=true"
-    },
-    {
-      "id": "0997130393",
-      "name": "Copo Térmico Wood Red Bull Bragantino Abridor - 500 Ml",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/391907-600-600/0997130393_1.jpg?v=639083132431330000",
-      "productURL": "https://www.aesportiva.com.br/copo-termico-wood-red-bull-bragantino-abridor--500-ml-0997130393/p?bragantino=true"
-    },
-    {
-      "id": "0996950272",
-      "name": "Garrafa Térmica Wood Red Bull Bragantino - 400 Ml",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/392912-600-600/0996950272_1.jpg?v=639088474192200000",
-      "productURL": "https://www.aesportiva.com.br/garrafa-termica-wood-red-bull-bragantino--400-ml-0996950272/p?bragantino=true"
-    },
-    {
-      "id": "0997170393",
-      "name": "Garrafa Térmica Wood Red Bull Bragantino - 850 Ml",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/391930-600-600/0997170393_1.jpg?v=639083136319500000",
-      "productURL": "https://www.aesportiva.com.br/garrafa-termica-wood-red-bull-bragantino--850-ml-0997170393/p?bragantino=true"
-    },
-    {
-      "id": "0997140019",
-      "name": "Garrafa Wood Red Bull Bragantino Escudo - 600 Ml",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/391927-600-600/0997140019_1.jpg?v=639083133514870000",
-      "productURL": "https://www.aesportiva.com.br/garrafa-wood-red-bull-bragantino-escudo--600-ml-0997140019/p?bragantino=true"
-    },
-    {
-      "id": "0996930019",
-      "name": "Caixa De Som Wood Red Bull Bragantino Multimídia Com Luzes",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/391896-600-600/0996930019_1.jpg?v=639083119750170000",
-      "productURL": "https://www.aesportiva.com.br/caixa-de-som-wood-red-bull-bragantino-multimidia-com-luzes-0996930019/p?bragantino=true"
-    },
-    {
-      "id": "0996990018",
-      "name": "Bolsa Térmica Wood Red Bull Bragantino - 8 Litros",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/391905-600-600/0996990018_1.jpg?v=639083123414300000",
-      "productURL": "https://www.aesportiva.com.br/bolsa-termica-wood-red-bull-bragantino--8-litros-0996990018/p?bragantino=true"
-    },
-    {
-      "id": "0996940019",
-      "name": "Caneca Térmica Wood Red Bull Bragantino Escudo - 700 Ml",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/391904-600-600/0996940019_1.jpg?v=639083121234500000",
-      "productURL": "https://www.aesportiva.com.br/caneca-termica-wood-red-bull-bragantino-escudo--700-ml-0996940019/p?bragantino=true"
-    },
-    {
-      "id": "0997160393",
-      "name": "Garrafa Wood Red Bull Bragantino Toro - 500 Ml",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/392829-600-600/0997160393_1.jpg?v=639088473411670000",
-      "productURL": "https://www.aesportiva.com.br/garrafa-wood-red-bull-bragantino-toro--500-ml-0997160393/p?bragantino=true"
-    },
-    {
-      "id": "0996920020",
-      "name": "Caneca Wood Red Bull Bragantino Escudo - 400 Ml",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/391892-600-600/0996920020_1.jpg?v=639083118955630000",
-      "productURL": "https://www.aesportiva.com.br/caneca-wood-red-bull-bragantino-escudo--400-ml-0996920020/p?bragantino=true"
-    },
-    {
-      "id": "0996980393",
-      "name": "Bolsa Térmica Wood Red Bull Bragantino - 11 Litros",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/391913-600-600/0996980393_1.jpg?v=639083122057770000",
-      "productURL": "https://www.aesportiva.com.br/bolsa-termica-wood-red-bull-bragantino--11-litros-0996980393/p?bragantino=true"
-    },
-    {
-      "id": "0997070393",
-      "name": "Caneca Gel Wood Red Bull Bragantino Escudo - 400 Ml",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/391908-600-600/0997070393_1.jpg?v=639083127956900000",
-      "productURL": "https://www.aesportiva.com.br/caneca-gel-wood-red-bull-bragantino-escudo--400-ml-0997070393/p?bragantino=true"
-    },
-    {
-      "id": "0996960679",
-      "name": "Garrafa Térmica Wood Red Bull Bragantino - 400 Ml",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/392789-600-600/0996960679_1.jpg?v=639088473732300000",
-      "productURL": "https://www.aesportiva.com.br/garrafa-termica-wood-red-bull-bragantino--400-ml-0996960679/p?bragantino=true"
-    },
-    {
-      "id": "0997030019",
-      "name": "Garrafa Wood Red Bull Bragantino Com Mosquetão - 420 Ml",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/391903-600-600/0997030019_1.jpg?v=639083124908730000",
-      "productURL": "https://www.aesportiva.com.br/garrafa-wood-red-bull-bragantino-com-mosquetao--420-ml-0997030019/p?bragantino=true"
-    },
-    {
-      "id": "0996910309",
-      "name": "Garrafa Térmica Wood Red Bull Bragantino Toro Loko - 400 Ml",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/391926-600-600/0996910309_1.jpg?v=639082239387770000",
-      "productURL": "https://www.aesportiva.com.br/garrafa-termica-wood-red-bull-bragantino-toro-loko--400-ml-0996910309/p?bragantino=true"
-    },
-    {
-      "id": "0997040881",
-      "name": "Garrafa Wood Red Bull Bragantino Com Mosquetão - 420 Ml",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/391888-600-600/0997040881_1.jpg?v=639083125918400000",
-      "productURL": "https://www.aesportiva.com.br/garrafa-wood-red-bull-bragantino-com-mosquetao--420-ml-0997040881/p?bragantino=true"
-    },
-    {
-      "id": "0996940272",
-      "name": "Caneca Térmica Wood Red Bull Bragantino Escudo - 700 Ml",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/391893-600-600/0996940272_1.jpg?v=639083120979470000",
-      "productURL": "https://www.aesportiva.com.br/caneca-termica-wood-red-bull-bragantino-escudo--700-ml-0996940272/p?bragantino=true"
-    },
-    {
-      "id": "0997140017",
-      "name": "Garrafa Wood Red Bull Bragantino Escudo - 600 Ml",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/391916-600-600/0997140017_1.jpg?v=639083134081770000",
-      "productURL": "https://www.aesportiva.com.br/garrafa-wood-red-bull-bragantino-escudo--600-ml-0997140017/p?bragantino=true"
-    },
-    {
-      "id": "0997090018",
-      "name": "Copo Térmico Wood Red Bull Bragantino Café - 500 Ml",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/391921-600-600/0997090018_1.jpg?v=639083129371730000",
-      "productURL": "https://www.aesportiva.com.br/copo-termico-wood-red-bull-bragantino-cafe--500-ml-0997090018/p?bragantino=true"
-    },
-    {
-      "id": "0997170272",
-      "name": "Garrafa Térmica Wood Red Bull Bragantino - 850 Ml",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/391932-600-600/0997170272_1.jpg?v=639083136671130000",
-      "productURL": "https://www.aesportiva.com.br/garrafa-termica-wood-red-bull-bragantino--850-ml-0997170272/p?bragantino=true"
-    },
-    {
-      "id": "0997090019",
-      "name": "Copo Térmico Wood Red Bull Bragantino Café - 500 Ml",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/391918-600-600/0997090019_1.jpg?v=639083129178330000",
-      "productURL": "https://www.aesportiva.com.br/copo-termico-wood-red-bull-bragantino-cafe--500-ml-0997090019/p?bragantino=true"
-    },
-    {
-      "id": "0997190393",
-      "name": "Copo Térmico Wood Red Bull Bragantino - 1,2 Litros",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/392676-600-600/0997190393_1.jpg?v=639088471841170000",
-      "productURL": "https://www.aesportiva.com.br/copo-termico-wood-red-bull-bragantino--1-2-litros-0997190393/p?bragantino=true"
-    },
-    {
-      "id": "0997230309",
-      "name": "Copo Wood Red Bull Bragantino Snacks - 700 Ml",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/392760-600-600/0997230309_1.jpg?v=639088470467500000",
-      "productURL": "https://www.aesportiva.com.br/copo-wood-red-bull-bragantino-snacks--700-ml-0997230309/p?bragantino=true"
-    },
-    {
-      "id": "0997100309",
-      "name": "Copo Térmico Wood Red Bull Bragantino - 320 Ml",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/391894-600-600/0997100309_1.jpg?v=639083130136100000",
-      "productURL": "https://www.aesportiva.com.br/copo-termico-wood-red-bull-bragantino--320-ml-0997100309/p?bragantino=true"
-    },
-    {
-      "id": "0996860018",
-      "name": "Mochila Wood Red Bull Bragantino Escudo - 21 Litros",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/391852-600-600/0996860018_1.jpg?v=639081431200230000",
-      "productURL": "https://www.aesportiva.com.br/mochila-wood-red-bull-bragantino-escudo--21-litros-0996860018/p?bragantino=true"
-    },
-    {
-      "id": "0997230881",
-      "name": "Copo Wood Red Bull Bragantino Snacks - 700 Ml",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/392903-600-600/0997230881_1.jpg?v=639088470090170000",
-      "productURL": "https://www.aesportiva.com.br/copo-wood-red-bull-bragantino-snacks--700-ml-0997230881/p?bragantino=true"
-    },
-    {
-      "id": "0997170020",
-      "name": "Garrafa Térmica Wood Red Bull Bragantino - 850 Ml",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/391931-600-600/0997170020_1.jpg?v=639083136848170000",
-      "productURL": "https://www.aesportiva.com.br/garrafa-termica-wood-red-bull-bragantino--850-ml-0997170020/p?bragantino=true"
-    },
-    {
-      "id": "0997140018",
-      "name": "Garrafa Wood Red Bull Bragantino Escudo - 600 Ml",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/391917-600-600/0997140018_1.jpg?v=639083133702670000",
-      "productURL": "https://www.aesportiva.com.br/garrafa-wood-red-bull-bragantino-escudo--600-ml-0997140018/p?bragantino=true"
-    },
-    {
-      "id": "0997100019",
-      "name": "Copo Térmico Wood Red Bull Bragantino - 320 Ml",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/391900-600-600/0997100019_1.jpg?v=639083130349930000",
-      "productURL": "https://www.aesportiva.com.br/copo-termico-wood-red-bull-bragantino--320-ml-0997100019/p?bragantino=true"
-    },
-    {
-      "id": "0997220018",
-      "name": "Caneca Térmica Wood Red Bull Bragantino - 500 Ml",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/392401-600-600/0997220018_1.jpg?v=639083995042470000",
-      "productURL": "https://www.aesportiva.com.br/caneca-termica-wood-red-bull-bragantino--500-ml-0997220018/p?bragantino=true"
-    },
-    {
-      "id": "0997140393",
-      "name": "Garrafa Wood Red Bull Bragantino Escudo - 600 Ml",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/391891-600-600/0997140393_1.jpg?v=639083133116570000",
-      "productURL": "https://www.aesportiva.com.br/garrafa-wood-red-bull-bragantino-escudo--600-ml-0997140393/p?bragantino=true"
-    },
-    {
-      "id": "0997100393",
-      "name": "Copo Térmico Wood Red Bull Bragantino - 320 Ml",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/391890-600-600/0997100393_1.jpg?v=639083129952900000",
-      "productURL": "https://www.aesportiva.com.br/copo-termico-wood-red-bull-bragantino--320-ml-0997100393/p?bragantino=true"
-    },
-    {
-      "id": "0997180018",
-      "name": "Copo Térmico Wood Red Bull Bragantino Com Caixa De Som - 400 Ml",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/393015-600-600/0997180018_1.jpg?v=639088472683000000",
-      "productURL": "https://www.aesportiva.com.br/copo-termico-wood-red-bull-bragantino-com-caixa-de-som--400-ml-0997180018/p?bragantino=true"
-    },
-    {
-      "id": "0997030393",
-      "name": "Garrafa Wood Red Bull Bragantino Com Mosquetão - 420 Ml",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/391887-600-600/0997030393_1.jpg?v=639083124649500000",
-      "productURL": "https://www.aesportiva.com.br/garrafa-wood-red-bull-bragantino-com-mosquetao--420-ml-0997030393/p?bragantino=true"
-    },
-    {
-      "id": "0996940393",
-      "name": "Caneca Térmica Wood Red Bull Bragantino Escudo - 700 Ml",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/391901-600-600/0996940393_1.jpg?v=639083120610170000",
-      "productURL": "https://www.aesportiva.com.br/caneca-termica-wood-red-bull-bragantino-escudo--700-ml-0996940393/p?bragantino=true"
-    },
-    {
-      "id": "0997120018",
-      "name": "Copo Térmico Wood Red Bull Bragantino Abridor - 500 Ml",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/391909-600-600/0997120018_1.jpg?v=639083131992770000",
-      "productURL": "https://www.aesportiva.com.br/copo-termico-wood-red-bull-bragantino-abridor--500-ml-0997120018/p?bragantino=true"
-    },
-    {
-      "id": "0996980018",
-      "name": "Bolsa Térmica Wood Red Bull Bragantino - 11 Litros",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/391898-600-600/0996980018_1.jpg?v=639083122764200000",
-      "productURL": "https://www.aesportiva.com.br/bolsa-termica-wood-red-bull-bragantino--11-litros-0996980018/p?bragantino=true"
-    },
-    {
-      "id": "0997210272",
-      "name": "Caneca Térmica Wood Red Bull Bragantino - 800 Ml",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/392398-600-600/0997210272_1.jpg?v=639083968253830000",
-      "productURL": "https://www.aesportiva.com.br/caneca-termica-wood-red-bull-bragantino--800-ml-0997210272/p?bragantino=true"
-    },
-    {
-      "id": "0997260020",
-      "name": "Garrafa Térmica Wood Red Bull Bragantino - 400 Ml",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/392913-600-600/0997260020_1.jpg?v=639088469200800000",
-      "productURL": "https://www.aesportiva.com.br/garrafa-termica-wood-red-bull-bragantino--400-ml-0997260020/p?bragantino=true"
-    },
-    {
-      "id": "0997120019",
-      "name": "Copo Térmico Wood Red Bull Bragantino Abridor - 500 Ml",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/391919-600-600/0997120019_1.jpg?v=639083131831970000",
-      "productURL": "https://www.aesportiva.com.br/copo-termico-wood-red-bull-bragantino-abridor--500-ml-0997120019/p?bragantino=true"
-    },
-    {
-      "id": "0997240393",
-      "name": "Copo Wood Red Bull Bragantino Snacks - 700 Ml",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/392790-600-600/0997240393_1.jpg?v=639088469657130000",
-      "productURL": "https://www.aesportiva.com.br/copo-wood-red-bull-bragantino-snacks--700-ml-0997240393/p?bragantino=true"
-    },
-    {
-      "id": "0997150272",
-      "name": "Garrafa Wood Red Bull Bragantino - 600 Ml",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/391911-600-600/0997150272_1.jpg?v=639083135124970000",
-      "productURL": "https://www.aesportiva.com.br/garrafa-wood-red-bull-bragantino-toro-loko--600-ml-0997150272/p?bragantino=true"
-    },
-    {
-      "id": "0997090393",
-      "name": "Copo Térmico Wood Red Bull Bragantino Café - 500 Ml",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/391914-600-600/0997090393_1.jpg?v=639083128786330000",
-      "productURL": "https://www.aesportiva.com.br/copo-termico-wood-red-bull-bragantino-cafe--500-ml-0997090393/p?bragantino=true"
-    },
-    {
-      "id": "0996900019",
-      "name": "Garrafa Térmica Wood Red Bull Bragantino - 400 Ml",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/391850-600-600/0996900019_1.jpg?v=639081435506830000",
-      "productURL": "https://www.aesportiva.com.br/garrafa-termica-wood-red-bull-bragantino--400-ml-0996900019/p?bragantino=true"
-    },
-    {
-      "id": "0997030018",
-      "name": "Garrafa Wood Red Bull Bragantino Com Mosquetão - 420 Ml",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/391923-600-600/0997030018_1.jpg?v=639083125134500000",
-      "productURL": "https://www.aesportiva.com.br/garrafa-wood-red-bull-bragantino-com-mosquetao--420-ml-0997030018/p?bragantino=true"
-    },
-    {
-      "id": "0997040021",
-      "name": "Garrafa Wood Red Bull Bragantino Com Mosquetão - 420 Ml",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/391924-600-600/0997040021_1.jpg?v=639083126302030000",
-      "productURL": "https://www.aesportiva.com.br/garrafa-wood-red-bull-bragantino-com-mosquetao--420-ml-0997040021/p?bragantino=true"
-    },
-    {
-      "id": "0997073482",
-      "name": "Caneca Gel Wood Red Bull Bragantino Escudo - 400 Ml",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/391920-600-600/0997073482_1.jpg?v=639083377484170000",
-      "productURL": "https://www.aesportiva.com.br/caneca-gel-wood-red-bull-bragantino-escudo--400-ml-0997073482/p?bragantino=true"
-    },
-    {
-      "id": "0997230018",
-      "name": "Copo Wood Red Bull Bragantino Snacks - 700 Ml",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/392749-600-600/0997230018_1.jpg?v=639088470655430000",
-      "productURL": "https://www.aesportiva.com.br/copo-wood-red-bull-bragantino-snacks--700-ml-0997230018/p?bragantino=true"
-    },
-    {
-      "id": "0996890356",
-      "name": "Chaveiro Wood Red Bull Bragantino Escudo Metal",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/391845-600-600/0996890356_1.jpg?v=639081434121970000",
-      "productURL": "https://www.aesportiva.com.br/chaveiro-wood-red-bull-bragantino-escudo-metal-0996890356/p?bragantino=true"
-    },
-    {
-      "id": "0997210309",
-      "name": "Caneca Térmica Wood Red Bull Bragantino - 800 Ml",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/392397-600-600/0997210309_1.jpg?v=639084018438430000",
-      "productURL": "https://www.aesportiva.com.br/caneca-termica-wood-red-bull-bragantino--800-ml-0997210309/p?bragantino=true"
-    },
-    {
-      "id": "0997200019",
-      "name": "Copo Térmico Wood Red Bull Bragantino - 1,2 Litros",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/392902-600-600/0997200019_1.jpg?v=639088471480870000",
-      "productURL": "https://www.aesportiva.com.br/copo-termico-wood-red-bull-bragantino--1-2-litros-0997200019/p?bragantino=true"
-    },
-    {
-      "id": "0997090309",
-      "name": "Copo Térmico Wood Red Bull Bragantino Café - 500 Ml",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/391922-600-600/0997090309_1.jpg?v=639083128989270000",
-      "productURL": "https://www.aesportiva.com.br/copo-termico-wood-red-bull-bragantino-cafe--500-ml-0997090309/p?bragantino=true"
-    },
-    {
-      "id": "0997180393",
-      "name": "Copo Térmico Wood Red Bull Bragantino Com Caixa De Som - 400 Ml",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/392860-600-600/0997180393_1.jpg?v=639088472878800000",
-      "productURL": "https://www.aesportiva.com.br/copo-termico-wood-red-bull-bragantino-com-caixa-de-som--400-ml-0997180393/p?bragantino=true"
-    },
-    {
-      "id": "0997110393",
-      "name": "Bolsa Wood Red Bull Bragantino Escudo",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/391895-600-600/0997110393_1.jpg?v=639083131199470000",
-      "productURL": "https://www.aesportiva.com.br/bolsa-wood-red-bull-bragantino-escudo-0997110393/p?bragantino=true"
-    },
-    {
-      "id": "0997220393",
-      "name": "Caneca Térmica Wood Red Bull Bragantino - 500 Ml",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/392399-600-600/0997220393_1.jpg?v=639083994750600000",
-      "productURL": "https://www.aesportiva.com.br/caneca-termica-wood-red-bull-bragantino--500-ml-0997220393/p?bragantino=true"
-    },
-    {
-      "id": "0996980020",
-      "name": "Bolsa Térmica Wood Red Bull Bragantino - 11 Litros",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/391912-600-600/0996980020_1.jpg?v=639083122372700000",
-      "productURL": "https://www.aesportiva.com.br/bolsa-termica-wood-red-bull-bragantino--11-litros-0996980020/p?bragantino=true"
-    },
-    {
-      "id": "0997140309",
-      "name": "Garrafa Wood Red Bull Bragantino Escudo - 600 Ml",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/391928-600-600/0997140309_1.jpg?v=639083133316100000",
-      "productURL": "https://www.aesportiva.com.br/garrafa-wood-red-bull-bragantino-escudo--600-ml-0997140309/p?bragantino=true"
-    },
-    {
-      "id": "0997250393",
-      "name": "Bolsa Térmica Wood Red Bull Bragantino Escudo - 10 Litros",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/392400-600-600/0997250393_1.jpg?v=639083994094530000",
-      "productURL": "https://www.aesportiva.com.br/bolsa-termica-wood-red-bull-bragantino-escudo--10-litros-0997250393/p?bragantino=true"
-    },
-    {
-      "id": "0997040309",
-      "name": "Garrafa Wood Red Bull Bragantino Com Mosquetão - 420 Ml",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/391902-600-600/0997040309_1.jpg?v=639083126115200000",
-      "productURL": "https://www.aesportiva.com.br/garrafa-wood-red-bull-bragantino-com-mosquetao--420-ml-0997040309/p?bragantino=true"
-    },
-    {
-      "id": "0997020020",
-      "name": "Caneca Wood Red Bull Bragantino Escudo - 180 Ml",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/391889-600-600/0997020020_1.jpg?v=639083123961170000",
-      "productURL": "https://www.aesportiva.com.br/caneca-wood-red-bull-bragantino-escudo--180-ml-0997020020/p?bragantino=true"
-    },
-    {
-      "id": "0997170018",
-      "name": "Garrafa Térmica Wood Red Bull Bragantino - 850 Ml",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/391929-600-600/0997170018_1.jpg?v=639083137026900000",
-      "productURL": "https://www.aesportiva.com.br/garrafa-termica-wood-red-bull-bragantino--850-ml-0997170018/p?bragantino=true"
-    },
-    {
-      "id": "0996900272",
-      "name": "Garrafa Térmica Wood Red Bull Bragantino - 400 Ml",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/391849-600-600/0996900272_1.jpg?v=639081434953300000",
-      "productURL": "https://www.aesportiva.com.br/garrafa-termica-wood-red-bull-bragantino--400-ml-0996900272/p?bragantino=true"
-    },
-    {
-      "id": "0997050018",
-      "name": "Chaveiro Abridor Wood Red Bull Bragantino",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/391899-600-600/0997050018_1.jpg?v=639083127218370000",
-      "productURL": "https://www.aesportiva.com.br/chaveiro-abridor-wood-red-bull-bragantino-0997050018/p?bragantino=true"
-    },
-    {
-      "id": "0997050393",
-      "name": "Chaveiro Abridor Wood Red Bull Bragantino",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/391925-600-600/0997050393_1.jpg?v=639083126948730000",
-      "productURL": "https://www.aesportiva.com.br/chaveiro-abridor-wood-red-bull-bragantino-0997050393/p?bragantino=true"
-    },
-    {
       "id": "0998070042",
       "name": "Camisa Puma Red Bull Bragantino I 2026 Masculina",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/392962-600-600/0998070042_1.jpg?v=639088331582800000",
-      "productURL": "https://www.aesportiva.com.br/camisa-puma-red-bull-bragantino-i-2026-masculina-0998070042/p?bragantino=true"
-    },
-    {
-      "id": "0997990019",
-      "name": "Camisa De Treino Puma Red Bull Bragantino 2026 Masculina",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/392104-600-600/0997990019_1.jpg?v=639083986694900000",
-      "productURL": "https://www.aesportiva.com.br/camisa-de-treino-puma-red-bull-bragantino-2026-masculina-0997990019/p?bragantino=true"
-    },
-    {
-      "id": "0998090019",
-      "name": "Calção Puma Red Bull Bragantino I 2026 Masculino",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/393402-600-600/0998090019_1.jpg?v=639089435092330000",
-      "productURL": "https://www.aesportiva.com.br/calcao-puma-red-bull-bragantino-i-2026-masculino-0998090019/p?bragantino=true"
-    },
-    {
-      "id": "0993920019",
-      "name": "Camisa Puma Red Bull Bragantino I 2025 Masculina",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/387412-600-600/0993920019_1.jpg?v=639089326158500000",
-      "productURL": "https://www.aesportiva.com.br/camisa-puma-red-bull-bragantino-i-2025-masculina-0993920019/p?bragantino=true"
-    },
-    {
-      "id": "0998970020",
-      "name": "Meião De Goleiro Puma Red Bull Bragantino I 2026",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/395557-600-600/0998970020_1.jpg?v=639102122744470000",
-      "productURL": "https://www.aesportiva.com.br/meiao-de-goleiro-puma-red-bull-bragantino-i-2026-0998970020/p?bragantino=true"
-    },
-    {
-      "id": "0998980036",
-      "name": "Meião De Goleiro Puma Red Bull Bragantino Ii 2026",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/395558-600-600/0998980036_1.jpg?v=639102122979400000",
-      "productURL": "https://www.aesportiva.com.br/meiao-de-goleiro-puma-red-bull-bragantino-ii-2026-0998980036/p?bragantino=true"
-    },
-    {
-      "id": "0990800022",
-      "name": "Camisa Puma Red Bull Bragantino Ii 2025 Masculina",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/391388-600-600/0990800022_1.jpg?v=639076202828330000",
-      "productURL": "https://www.aesportiva.com.br/camisa-puma-red-bull-bragantino-ii-2025-masculina-0990800022/p?bragantino=true"
-    },
-    {
-      "id": "0990890015",
-      "name": "Camisa De Goleiro Puma Red Bull Bragantino Iii Masculina",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/382747-600-600/0990890015_1.jpg?v=638998690429100000",
-      "productURL": "https://www.aesportiva.com.br/camisa-de-goleiro-puma-red-bull-bragantino-iii-masculina-0990890015/p?bragantino=true"
-    },
-    {
-      "id": "0990980017",
-      "name": "Camisa Puma Red Bull Bragantino Iii 2025 Juvenil",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/386205-600-600/0990980017_1.jpg?v=639027169214730000",
-      "productURL": "https://www.aesportiva.com.br/camisa-puma-red-bull-bragantino-iii-2025-juvenil-0990980017/p?bragantino=true"
-    },
-    {
-      "id": "0990970022",
-      "name": "Camisa Puma Red Bull Bragantino Ii 2025 Juvenil",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/386203-600-600/0990970022_1.jpg?v=639027167037930000",
-      "productURL": "https://www.aesportiva.com.br/camisa-puma-red-bull-bragantino-ii-2025-juvenil-0990970022/p?bragantino=true"
-    },
-    {
-      "id": "0990990018",
-      "name": "Camisa De Goleiro Puma Red Bull Bragantino Ii 2025 Juvenil",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/384247-600-600/0990990018_1.jpg?v=639003925037470000",
-      "productURL": "https://www.aesportiva.com.br/camisa-de-goleiro-puma-red-bull-bragantino-ii-2025-juvenil-0990990018/p?bragantino=true"
-    },
-    {
-      "id": "0990880018",
-      "name": "Calção De Goleiro Puma Red Bull Bragantino Ii 2025 Masculino",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/381878-600-600/0990880018_1.jpg?v=639083193985970000",
-      "productURL": "https://www.aesportiva.com.br/calcao-de-goleiro-puma-red-bull-bragantino-ii-2025-masculino-0990880018/p?bragantino=true"
-    },
-    {
-      "id": "0990840018",
-      "name": "Calção Puma Red Bull Bragantino I 2025 Masculino",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/382841-600-600/0990840018_1.jpg?v=638998690785970000",
-      "productURL": "https://www.aesportiva.com.br/calcao-puma-red-bull-bragantino-i-2025-masculino-0990840018/p?bragantino=true"
-    },
-    {
-      "id": "0991000018",
-      "name": "Calção De Goleiro Puma Red Bull Bragantino Ii 2025 Juvenil",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/384338-600-600/0991000018_1.jpg?v=639003925484600000",
-      "productURL": "https://www.aesportiva.com.br/calcao-de-goleiro-puma-red-bull-bragantino-ii-2025-juvenil-0991000018/p?bragantino=true"
-    },
-    {
-      "id": "0990830416",
-      "name": "Camisa Puma Red Bull Bragantino Iii 2025 Feminina",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/385513-600-600/0990830416_1.jpg?v=639016599672730000",
-      "productURL": "https://www.aesportiva.com.br/camisa-puma-red-bull-bragantino-iii-2025-feminina-0990830416/p?bragantino=true"
-    },
-    {
-      "id": "0990850017",
-      "name": "Calção Puma Red Bull Bragantino Iii 2025 Masculino",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/385273-600-600/0990850017_1.jpg?v=639016598590200000",
-      "productURL": "https://www.aesportiva.com.br/calcao-puma-red-bull-bragantino-iii-2025-masculino-0990850017/p?bragantino=true"
-    },
-    {
-      "id": "0998010012",
-      "name": "Calção De Treino Puma Red Bull Bragantino 2026 Feminino",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/392283-600-600/0998010012_1.jpg?v=639083380202700000",
-      "productURL": "https://www.aesportiva.com.br/calcao-de-treino-puma-red-bull-bragantino-2026-feminino-0998010012/p?bragantino=true"
-    },
-    {
-      "id": "0998030017",
-      "name": "Calção De Treino Puma Red Bull Bragantino 2026 Juvenil",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/392185-600-600/0998030017_1.jpg?v=639083379446700000",
-      "productURL": "https://www.aesportiva.com.br/calcao-de-treino-puma-red-bull-bragantino-2026-juvenil-0998030017/p?bragantino=true"
-    },
-    {
-      "id": "0998020020",
-      "name": "Calção De Treino Puma Red Bull Bragantino 2026 Masculino",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/392220-600-600/0998020020_1.jpg?v=639083379939870000",
-      "productURL": "https://www.aesportiva.com.br/calcao-de-treino-puma-red-bull-bragantino-2026-masculino-0998020020/p?bragantino=true"
-    },
-    {
-      "id": "0997890017",
-      "name": "Calção Puma Red Bull Bragantino Evostripe 26 Masculino",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/392210-600-600/0997890017_1.jpg?v=639083378696800000",
-      "productURL": "https://www.aesportiva.com.br/calcao-puma-red-bull-bragantino-evostripe-26-masculino-0997890017/p?bragantino=true"
-    },
-    {
-      "id": "0997890012",
-      "name": "Calção Puma Red Bull Bragantino Evostripe 26 Masculino",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/392200-600-600/0997890012_1.jpg?v=639083378116570000",
-      "productURL": "https://www.aesportiva.com.br/calcao-puma-red-bull-bragantino-evostripe-26-masculino-0997890012/p?bragantino=true"
-    },
-    {
-      "id": "0997880012",
-      "name": "Calça Puma Red Bull Bragantino Evostripe 26 Masculina",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/392235-600-600/0997880012_1.jpg?v=639083379107700000",
-      "productURL": "https://www.aesportiva.com.br/calca-puma-red-bull-bragantino-evostripe-26-masculina-0997880012/p?bragantino=true"
-    },
-    {
-      "id": "0997910019",
-      "name": "Camisa Puma Red Bull Bragantino Evostripe 26 Masculina",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/392271-600-600/0997910019_1.jpg?v=639083377522800000",
-      "productURL": "https://www.aesportiva.com.br/camisa-puma-red-bull-bragantino-evostripe-26-masculina-0997910019/p?bragantino=true"
-    },
-    {
-      "id": "0997900017",
-      "name": "Camisa Polo Puma Red Bull Bragantino Evostripe 26 Masculina",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/392173-600-600/0997900017_1.jpg?v=639083377910670000",
-      "productURL": "https://www.aesportiva.com.br/camisa-polo-puma-red-bull-bragantino-evostripe-26-masculina-0997900017/p?bragantino=true"
-    },
-    {
-      "id": "0998160020",
-      "name": "Camisa De Goleiro Puma Red Bull Bragantino I 2026 Juvenil",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/393484-600-600/0998160020_1.jpg?v=639090226461670000",
-      "productURL": "https://www.aesportiva.com.br/camisa-de-goleiro-puma-red-bull-bragantino-i-2026-juvenil-0998160020/p?bragantino=true"
+      "imageUrl": "https://redbullshop.vtexassets.com/arquivos/ids/392962-600-600/0998070042_1.jpg?v=639088331582800000",
+      "productURL": "https://www.redbullshop.com.br/camisa-puma-red-bull-bragantino-i-2026-masculina-0998070042/p"
     },
     {
       "id": "0998140042",
       "name": "Camisa Puma Red Bull Bragantino I 2026 Feminina",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/393474-600-600/0998140042_1.jpg?v=639090224963600000",
-      "productURL": "https://www.aesportiva.com.br/camisa-puma-red-bull-bragantino-i-2026-feminina-0998140042/p?bragantino=true"
-    },
-    {
-      "id": "0998220019",
-      "name": "Meião Puma Red Bull Bragantino I 2026",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/393473-600-600/0998220019_1.jpg?v=639090034801470000",
-      "productURL": "https://www.aesportiva.com.br/meiao-puma-red-bull-bragantino-i-2026-0998220019/p?bragantino=true"
-    },
-    {
-      "id": "0998220018",
-      "name": "Meião Puma Red Bull Bragantino I 2026",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/393472-600-600/0998220018_1.jpg?v=639090035191100000",
-      "productURL": "https://www.aesportiva.com.br/meiao-puma-red-bull-bragantino-i-2026-0998220018/p?bragantino=true"
+      "imageUrl": "https://redbullshop.vtexassets.com/arquivos/ids/393474-600-600/0998140042_1.jpg?v=639090224963600000",
+      "productURL": "https://www.redbullshop.com.br/camisa-puma-red-bull-bragantino-i-2026-feminina-0998140042/p"
     },
     {
       "id": "0998210042",
       "name": "Camisa Puma Red Bull Bragantino I 2026 Juvenil",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/393462-600-600/0998210042_1.jpg?v=639089436082400000",
-      "productURL": "https://www.aesportiva.com.br/camisa-puma-red-bull-bragantino-i-2026-juvenil-0998210042/p?bragantino=true"
+      "imageUrl": "https://redbullshop.vtexassets.com/arquivos/ids/393462-600-600/0998210042_1.jpg?v=639089436082400000",
+      "productURL": "https://www.redbullshop.com.br/camisa-puma-red-bull-bragantino-i-2026-juvenil-0998210042/p"
     },
     {
-      "id": "0998200019",
-      "name": "Calção Puma Red Bull Bragantino I 2026 Juvenil",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/393452-600-600/0998200019_1.jpg?v=639089435928200000",
-      "productURL": "https://www.aesportiva.com.br/calcao-puma-red-bull-bragantino-i-2026-juvenil-0998200019/p?bragantino=true"
+      "id": "0997900017",
+      "name": "Camisa Polo Puma Red Bull Bragantino Evostripe 26 Masculina",
+      "imageUrl": "https://redbullshop.vtexassets.com/arquivos/ids/392173-600-600/0997900017_1.jpg?v=639083377910670000",
+      "productURL": "https://www.redbullshop.com.br/camisa-polo-puma-red-bull-bragantino-evostripe-26-masculina-0997900017/p"
     },
     {
-      "id": "0998200018",
-      "name": "Calção Puma Red Bull Bragantino I 2026 Juvenil",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/393442-600-600/0998200018_1.jpg?v=639089435989400000",
-      "productURL": "https://www.aesportiva.com.br/calcao-puma-red-bull-bragantino-i-2026-juvenil-0998200018/p?bragantino=true"
-    },
-    {
-      "id": "0998150019",
-      "name": "Calção Puma Red Bull Bragantino I 2026 Feminino",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/393430-600-600/0998150019_1.jpg?v=639089435630030000",
-      "productURL": "https://www.aesportiva.com.br/calcao-puma-red-bull-bragantino-i-2026-feminino-0998150019/p?bragantino=true"
-    },
-    {
-      "id": "0998150018",
-      "name": "Calção Puma Red Bull Bragantino I 2026 Feminino",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/393408-600-600/0998150018_1.jpg?v=639089435696070000",
-      "productURL": "https://www.aesportiva.com.br/calcao-puma-red-bull-bragantino-i-2026-feminino-0998150018/p?bragantino=true"
-    },
-    {
-      "id": "0998090018",
-      "name": "Calção Puma Red Bull Bragantino I 2026 Masculino",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/393420-600-600/0998090018_1.jpg?v=639089435186730000",
-      "productURL": "https://www.aesportiva.com.br/calcao-puma-red-bull-bragantino-i-2026-masculino-0998090018/p?bragantino=true"
-    },
-    {
-      "id": "0998190036",
-      "name": "Calção De Goleiro Puma Red Bull Bragantino Ii 2026 Juvenil",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/393046-600-600/0998190036_1.jpg?v=639088330737230000",
-      "productURL": "https://www.aesportiva.com.br/calcao-de-goleiro-puma-red-bull-bragantino-ii-2026-juvenil-0998190036/p?bragantino=true"
-    },
-    {
-      "id": "0998180020",
-      "name": "Calção De Goleiro Puma Red Bull Bragantino I 2026 Juvenil",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/393056-600-600/0998180020_1.jpg?v=639088333440400000",
-      "productURL": "https://www.aesportiva.com.br/calcao-de-goleiro-puma-red-bull-bragantino-i-2026-juvenil-0998180020/p?bragantino=true"
-    },
-    {
-      "id": "0998170036",
-      "name": "Camisa De Goleiro Puma Red Bull Bragantino Ii 2026 Juvenil",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/393036-600-600/0998170036_1.jpg?v=639088335689900000",
-      "productURL": "https://www.aesportiva.com.br/camisa-de-goleiro-puma-red-bull-bragantino-ii-2026-juvenil-0998170036/p?bragantino=true"
-    },
-    {
-      "id": "0998130021",
-      "name": "Camisa De Goleiro Puma Red Bull Bragantino Iii 2026 Masculina",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/392727-600-600/0998130021_1.jpg?v=639088329582100000",
-      "productURL": "https://www.aesportiva.com.br/camisa-de-goleiro-puma-red-bull-bragantino-iii-2026-masculina-0998130021/p?bragantino=true"
-    },
-    {
-      "id": "0998120021",
-      "name": "Calção De Goleiro Puma Red Bull Bragantino Iii 2026 Masculino",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/392892-600-600/0998120021_1.jpg?v=639088339691800000",
-      "productURL": "https://www.aesportiva.com.br/calcao-de-goleiro-puma-red-bull-bragantino-iii-2026-masculino-0998120021/p?bragantino=true"
-    },
-    {
-      "id": "0998110036",
-      "name": "Calção De Goleiro Puma Red Bull Bragantino Ii 2026 Masculino",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/392819-600-600/0998110036_1.jpg?v=639088340803870000",
-      "productURL": "https://www.aesportiva.com.br/calcao-de-goleiro-puma-red-bull-bragantino-ii-2026-masculino-0998110036/p?bragantino=true"
-    },
-    {
-      "id": "0998100036",
-      "name": "Camisa De Goleiro Puma Red Bull Bragantino Ii 2026 Masculina",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/393026-600-600/0998100036_1.jpg?v=639088337419930000",
-      "productURL": "https://www.aesportiva.com.br/camisa-de-goleiro-puma-red-bull-bragantino-ii-2026-masculina-0998100036/p?bragantino=true"
-    },
-    {
-      "id": "0998080020",
-      "name": "Calção De Goleiro Puma Red Bull Bragantino I 2026 Masculino",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/392779-600-600/0998080020_1.jpg?v=639088332941200000",
-      "productURL": "https://www.aesportiva.com.br/calcao-de-goleiro-puma-red-bull-bragantino-i-2026-masculino-0998080020/p?bragantino=true"
-    },
-    {
-      "id": "0998060020",
-      "name": "Camisa De Goleiro Puma Red Bull Bragantino I 2026 Masculina",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/392801-600-600/0998060020_1.jpg?v=639088334532370000",
-      "productURL": "https://www.aesportiva.com.br/camisa-de-goleiro-puma-red-bull-bragantino-i-2026-masculina-0998060020/p?bragantino=true"
-    },
-    {
-      "id": "0997990021",
-      "name": "Camisa De Treino Puma Red Bull Bragantino 2026 Masculina",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/392361-600-600/0997990021_1.jpg?v=639083985280400000",
-      "productURL": "https://www.aesportiva.com.br/camisa-de-treino-puma-red-bull-bragantino-2026-masculina-0997990021/p?bragantino=true"
-    },
-    {
-      "id": "0997990012",
-      "name": "Camisa De Treino Puma Red Bull Bragantino 2026 Masculina",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/392346-600-600/0997990012_1.jpg?v=639083986328230000",
-      "productURL": "https://www.aesportiva.com.br/camisa-de-treino-puma-red-bull-bragantino-2026-masculina-0997990012/p?bragantino=true"
-    },
-    {
-      "id": "0998000017",
-      "name": "Calção De Treino Puma Red Bull Bragantino 2026 Masculino",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/392155-600-600/0998000017_1.jpg?v=639083984529430000",
-      "productURL": "https://www.aesportiva.com.br/calcao-de-treino-puma-red-bull-bragantino-2026-masculino-0998000017/p?bragantino=true"
-    },
-    {
-      "id": "0997880017",
-      "name": "Calça Puma Red Bull Bragantino Evostripe 26 Masculina",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/392253-600-600/0997880017_1.jpg?v=639084232627300000",
-      "productURL": "https://www.aesportiva.com.br/calca-puma-red-bull-bragantino-evostripe-26-masculina-0997880017/p?bragantino=true"
+      "id": "0997910019",
+      "name": "Camisa Puma Red Bull Bragantino Evostripe 26 Masculina",
+      "imageUrl": "https://redbullshop.vtexassets.com/arquivos/ids/392271-600-600/0997910019_1.jpg?v=639083377522800000",
+      "productURL": "https://www.redbullshop.com.br/camisa-puma-red-bull-bragantino-evostripe-26-masculina-0997910019/p"
     },
     {
       "id": "0997910017",
       "name": "Camisa Puma Red Bull Bragantino Evostripe 26 Masculina",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/392334-600-600/0997910017_1.jpg?v=639084232466700000",
-      "productURL": "https://www.aesportiva.com.br/camisa-puma-red-bull-bragantino-evostripe-26-masculina-0997910017/p?bragantino=true"
+      "imageUrl": "https://redbullshop.vtexassets.com/arquivos/ids/392334-600-600/0997910017_1.jpg?v=639084232466700000",
+      "productURL": "https://www.redbullshop.com.br/camisa-puma-red-bull-bragantino-evostripe-26-masculina-0997910017/p"
     },
     {
-      "id": "0990460393",
-      "name": "Boné Supercap Red Bull Bragantino Trucker Tela Infantil",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/380267-600-600/0990460393_1.jpg?v=638985503111200000",
-      "productURL": "https://www.aesportiva.com.br/bone-supercap-red-bull-bragantino-trucker-tela-infantil-0990460393/p?bragantino=true"
+      "id": "0998060020",
+      "name": "Camisa De Goleiro Puma Red Bull Bragantino I 2026 Masculina",
+      "imageUrl": "https://redbullshop.vtexassets.com/arquivos/ids/392801-600-600/0998060020_1.jpg?v=639088334532370000",
+      "productURL": "https://www.redbullshop.com.br/camisa-de-goleiro-puma-red-bull-bragantino-i-2026-masculina-0998060020/p"
     },
     {
-      "id": "0990450393",
-      "name": "Boné Supercap Red Bull Bragantino Trucker Tela",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/380264-600-600/0990450393_1.jpg?v=638985503018870000",
-      "productURL": "https://www.aesportiva.com.br/bone-supercap-red-bull-bragantino-trucker-tela-0990450393/p?bragantino=true"
+      "id": "0998160020",
+      "name": "Camisa De Goleiro Puma Red Bull Bragantino I 2026 Juvenil",
+      "imageUrl": "https://redbullshop.vtexassets.com/arquivos/ids/393484-600-600/0998160020_1.jpg?v=639090226461670000",
+      "productURL": "https://www.redbullshop.com.br/camisa-de-goleiro-puma-red-bull-bragantino-i-2026-juvenil-0998160020/p"
     },
     {
-      "id": "0990440393",
-      "name": "Boné Supercap Red Bull Bragantino 6 Gomos",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/380261-600-600/0990440393_1.jpg?v=638985502930130000",
-      "productURL": "https://www.aesportiva.com.br/bone-supercap-red-bull-bragantino-6-gomos-0990440393/p?bragantino=true"
+      "id": "0998100036",
+      "name": "Camisa De Goleiro Puma Red Bull Bragantino Ii 2026 Masculina",
+      "imageUrl": "https://redbullshop.vtexassets.com/arquivos/ids/393026-600-600/0998100036_1.jpg?v=639088337419930000",
+      "productURL": "https://www.redbullshop.com.br/camisa-de-goleiro-puma-red-bull-bragantino-ii-2026-masculina-0998100036/p"
     },
     {
-      "id": "0990410020",
-      "name": "Boné Supercap Red Bull Bragantino 6 Gomos",
-      "imageUrl": "https://aesportiva.vtexassets.com/arquivos/ids/380255-600-600/0990410020_1.jpg?v=638985502741730000",
-      "productURL": "https://www.aesportiva.com.br/bone-supercap-red-bull-bragantino-6-gomos-0990410020/p?bragantino=true"
+      "id": "0998170036",
+      "name": "Camisa De Goleiro Puma Red Bull Bragantino Ii 2026 Juvenil",
+      "imageUrl": "https://redbullshop.vtexassets.com/arquivos/ids/393036-600-600/0998170036_1.jpg?v=639088335689900000",
+      "productURL": "https://www.redbullshop.com.br/camisa-de-goleiro-puma-red-bull-bragantino-ii-2026-juvenil-0998170036/p"
+    },
+    {
+      "id": "0998130021",
+      "name": "Camisa De Goleiro Puma Red Bull Bragantino Iii 2026 Masculina",
+      "imageUrl": "https://redbullshop.vtexassets.com/arquivos/ids/392727-600-600/0998130021_1.jpg?v=639088329582100000",
+      "productURL": "https://www.redbullshop.com.br/camisa-de-goleiro-puma-red-bull-bragantino-iii-2026-masculina-0998130021/p"
+    },
+    {
+      "id": "0997990021",
+      "name": "Camisa De Treino Puma Red Bull Bragantino 2026 Masculina",
+      "imageUrl": "https://redbullshop.vtexassets.com/arquivos/ids/392361-600-600/0997990021_1.jpg?v=639083985280400000",
+      "productURL": "https://www.redbullshop.com.br/camisa-de-treino-puma-red-bull-bragantino-2026-masculina-0997990021/p"
+    },
+    {
+      "id": "0997990019",
+      "name": "Camisa De Treino Puma Red Bull Bragantino 2026 Masculina",
+      "imageUrl": "https://redbullshop.vtexassets.com/arquivos/ids/392104-600-600/0997990019_1.jpg?v=639083986694900000",
+      "productURL": "https://www.redbullshop.com.br/camisa-de-treino-puma-red-bull-bragantino-2026-masculina-0997990019/p"
+    },
+    {
+      "id": "0997990012",
+      "name": "Camisa De Treino Puma Red Bull Bragantino 2026 Masculina",
+      "imageUrl": "https://redbullshop.vtexassets.com/arquivos/ids/392346-600-600/0997990012_1.jpg?v=639083986328230000",
+      "productURL": "https://www.redbullshop.com.br/camisa-de-treino-puma-red-bull-bragantino-2026-masculina-0997990012/p"
+    },
+    {
+      "id": "0998970020",
+      "name": "Meião De Goleiro Puma Red Bull Bragantino I 2026",
+      "imageUrl": "https://redbullshop.vtexassets.com/arquivos/ids/395557-600-600/0998970020_1.jpg?v=639102122744470000",
+      "productURL": "https://www.redbullshop.com.br/meiao-de-goleiro-puma-red-bull-bragantino-i-2026-0998970020/p"
+    },
+    {
+      "id": "0998980036",
+      "name": "Meião De Goleiro Puma Red Bull Bragantino Ii 2026",
+      "imageUrl": "https://redbullshop.vtexassets.com/arquivos/ids/395558-600-600/0998980036_1.jpg?v=639102122979400000",
+      "productURL": "https://www.redbullshop.com.br/meiao-de-goleiro-puma-red-bull-bragantino-ii-2026-0998980036/p"
+    },
+    {
+      "id": "0998180020",
+      "name": "Calção De Goleiro Puma Red Bull Bragantino I 2026 Juvenil",
+      "imageUrl": "https://redbullshop.vtexassets.com/arquivos/ids/393056-600-600/0998180020_1.jpg?v=639088333440400000",
+      "productURL": "https://www.redbullshop.com.br/calcao-de-goleiro-puma-red-bull-bragantino-i-2026-juvenil-0998180020/p"
+    },
+    {
+      "id": "0998080020",
+      "name": "Calção De Goleiro Puma Red Bull Bragantino I 2026 Masculino",
+      "imageUrl": "https://redbullshop.vtexassets.com/arquivos/ids/392779-600-600/0998080020_1.jpg?v=639088332941200000",
+      "productURL": "https://www.redbullshop.com.br/calcao-de-goleiro-puma-red-bull-bragantino-i-2026-masculino-0998080020/p"
+    },
+    {
+      "id": "0998150019",
+      "name": "Calção Puma Red Bull Bragantino I 2026 Feminino",
+      "imageUrl": "https://redbullshop.vtexassets.com/arquivos/ids/393430-600-600/0998150019_1.jpg?v=639089435630030000",
+      "productURL": "https://www.redbullshop.com.br/calcao-puma-red-bull-bragantino-i-2026-feminino-0998150019/p"
+    },
+    {
+      "id": "0998150018",
+      "name": "Calção Puma Red Bull Bragantino I 2026 Feminino",
+      "imageUrl": "https://redbullshop.vtexassets.com/arquivos/ids/393408-600-600/0998150018_1.jpg?v=639089435696070000",
+      "productURL": "https://www.redbullshop.com.br/calcao-puma-red-bull-bragantino-i-2026-feminino-0998150018/p"
+    },
+    {
+      "id": "0998200019",
+      "name": "Calção Puma Red Bull Bragantino I 2026 Juvenil",
+      "imageUrl": "https://redbullshop.vtexassets.com/arquivos/ids/393452-600-600/0998200019_1.jpg?v=639089435928200000",
+      "productURL": "https://www.redbullshop.com.br/calcao-puma-red-bull-bragantino-i-2026-juvenil-0998200019/p"
+    },
+    {
+      "id": "0998200018",
+      "name": "Calção Puma Red Bull Bragantino I 2026 Juvenil",
+      "imageUrl": "https://redbullshop.vtexassets.com/arquivos/ids/393442-600-600/0998200018_1.jpg?v=639089435989400000",
+      "productURL": "https://www.redbullshop.com.br/calcao-puma-red-bull-bragantino-i-2026-juvenil-0998200018/p"
+    },
+    {
+      "id": "0998090019",
+      "name": "Calção Puma Red Bull Bragantino I 2026 Masculino",
+      "imageUrl": "https://redbullshop.vtexassets.com/arquivos/ids/393402-600-600/0998090019_1.jpg?v=639089435092330000",
+      "productURL": "https://www.redbullshop.com.br/calcao-puma-red-bull-bragantino-i-2026-masculino-0998090019/p"
+    },
+    {
+      "id": "0998090018",
+      "name": "Calção Puma Red Bull Bragantino I 2026 Masculino",
+      "imageUrl": "https://redbullshop.vtexassets.com/arquivos/ids/393420-600-600/0998090018_1.jpg?v=639089435186730000",
+      "productURL": "https://www.redbullshop.com.br/calcao-puma-red-bull-bragantino-i-2026-masculino-0998090018/p"
+    },
+    {
+      "id": "0998190036",
+      "name": "Calção De Goleiro Puma Red Bull Bragantino Ii 2026 Juvenil",
+      "imageUrl": "https://redbullshop.vtexassets.com/arquivos/ids/393046-600-600/0998190036_1.jpg?v=639088330737230000",
+      "productURL": "https://www.redbullshop.com.br/calcao-de-goleiro-puma-red-bull-bragantino-ii-2026-juvenil-0998190036/p"
+    },
+    {
+      "id": "0998110036",
+      "name": "Calção De Goleiro Puma Red Bull Bragantino Ii 2026 Masculino",
+      "imageUrl": "https://redbullshop.vtexassets.com/arquivos/ids/392819-600-600/0998110036_1.jpg?v=639088340803870000",
+      "productURL": "https://www.redbullshop.com.br/calcao-de-goleiro-puma-red-bull-bragantino-ii-2026-masculino-0998110036/p"
+    },
+    {
+      "id": "0998120021",
+      "name": "Calção De Goleiro Puma Red Bull Bragantino Iii 2026 Masculino",
+      "imageUrl": "https://redbullshop.vtexassets.com/arquivos/ids/392892-600-600/0998120021_1.jpg?v=639088339691800000",
+      "productURL": "https://www.redbullshop.com.br/calcao-de-goleiro-puma-red-bull-bragantino-iii-2026-masculino-0998120021/p"
+    },
+    {
+      "id": "0998010012",
+      "name": "Calção De Treino Puma Red Bull Bragantino 2026 Feminino",
+      "imageUrl": "https://redbullshop.vtexassets.com/arquivos/ids/392283-600-600/0998010012_1.jpg?v=639083380202700000",
+      "productURL": "https://www.redbullshop.com.br/calcao-de-treino-puma-red-bull-bragantino-2026-feminino-0998010012/p"
+    },
+    {
+      "id": "0998030017",
+      "name": "Calção De Treino Puma Red Bull Bragantino 2026 Juvenil",
+      "imageUrl": "https://redbullshop.vtexassets.com/arquivos/ids/392185-600-600/0998030017_1.jpg?v=639083379446700000",
+      "productURL": "https://www.redbullshop.com.br/calcao-de-treino-puma-red-bull-bragantino-2026-juvenil-0998030017/p"
+    },
+    {
+      "id": "0998000017",
+      "name": "Calção De Treino Puma Red Bull Bragantino 2026 Masculino",
+      "imageUrl": "https://redbullshop.vtexassets.com/arquivos/ids/392155-600-600/0998000017_1.jpg?v=639083984529430000",
+      "productURL": "https://www.redbullshop.com.br/calcao-de-treino-puma-red-bull-bragantino-2026-masculino-0998000017/p"
+    },
+    {
+      "id": "0998020020",
+      "name": "Calção De Treino Puma Red Bull Bragantino 2026 Masculino",
+      "imageUrl": "https://redbullshop.vtexassets.com/arquivos/ids/392220-600-600/0998020020_1.jpg?v=639083379939870000",
+      "productURL": "https://www.redbullshop.com.br/calcao-de-treino-puma-red-bull-bragantino-2026-masculino-0998020020/p"
+    },
+    {
+      "id": "0997890017",
+      "name": "Calção Puma Red Bull Bragantino Evostripe 26 Masculino",
+      "imageUrl": "https://redbullshop.vtexassets.com/arquivos/ids/392210-600-600/0997890017_1.jpg?v=639083378696800000",
+      "productURL": "https://www.redbullshop.com.br/calcao-puma-red-bull-bragantino-evostripe-26-masculino-0997890017/p"
+    },
+    {
+      "id": "0997890012",
+      "name": "Calção Puma Red Bull Bragantino Evostripe 26 Masculino",
+      "imageUrl": "https://redbullshop.vtexassets.com/arquivos/ids/392200-600-600/0997890012_1.jpg?v=639083378116570000",
+      "productURL": "https://www.redbullshop.com.br/calcao-puma-red-bull-bragantino-evostripe-26-masculino-0997890012/p"
+    },
+    {
+      "id": "0998220019",
+      "name": "Meião Puma Red Bull Bragantino I 2026",
+      "imageUrl": "https://redbullshop.vtexassets.com/arquivos/ids/393473-600-600/0998220019_1.jpg?v=639090034801470000",
+      "productURL": "https://www.redbullshop.com.br/meiao-puma-red-bull-bragantino-i-2026-0998220019/p"
+    },
+    {
+      "id": "0998220018",
+      "name": "Meião Puma Red Bull Bragantino I 2026",
+      "imageUrl": "https://redbullshop.vtexassets.com/arquivos/ids/393472-600-600/0998220018_1.jpg?v=639090035191100000",
+      "productURL": "https://www.redbullshop.com.br/meiao-puma-red-bull-bragantino-i-2026-0998220018/p"
+    },
+    {
+      "id": "0997880017",
+      "name": "Calça Puma Red Bull Bragantino Evostripe 26 Masculina",
+      "imageUrl": "https://redbullshop.vtexassets.com/arquivos/ids/392253-600-600/0997880017_1.jpg?v=639084232627300000",
+      "productURL": "https://www.redbullshop.com.br/calca-puma-red-bull-bragantino-evostripe-26-masculina-0997880017/p"
+    },
+    {
+      "id": "0997880012",
+      "name": "Calça Puma Red Bull Bragantino Evostripe 26 Masculina",
+      "imageUrl": "https://redbullshop.vtexassets.com/arquivos/ids/392235-600-600/0997880012_1.jpg?v=639083379107700000",
+      "productURL": "https://www.redbullshop.com.br/calca-puma-red-bull-bragantino-evostripe-26-masculina-0997880012/p"
+    },
+    {
+      "id": "0990800022",
+      "name": "Camisa Puma Red Bull Bragantino Ii 2025 Masculina",
+      "imageUrl": "https://redbullshop.vtexassets.com/arquivos/ids/391388-600-600/0990800022_1.jpg?v=639076202828330000",
+      "productURL": "https://www.redbullshop.com.br/camisa-puma-red-bull-bragantino-ii-2025-masculina-0990800022/p"
+    },
+    {
+      "id": "0990970022",
+      "name": "Camisa Puma Red Bull Bragantino Ii 2025 Juvenil",
+      "imageUrl": "https://redbullshop.vtexassets.com/arquivos/ids/386203-600-600/0990970022_1.jpg?v=639027167037930000",
+      "productURL": "https://www.redbullshop.com.br/camisa-puma-red-bull-bragantino-ii-2025-juvenil-0990970022/p"
+    },
+    {
+      "id": "0992700017",
+      "name": "Jaqueta Puma Red Bull Bragantino Treino 2025 Masculina",
+      "imageUrl": "https://redbullshop.vtexassets.com/arquivos/ids/397045-600-600/0992700017_1.jpg?v=639119594595400000",
+      "productURL": "https://www.redbullshop.com.br/jaqueta-puma-red-bull-bragantino-treino-2025-masculina-0992700017/p"
+    },
+    {
+      "id": "0990830416",
+      "name": "Camisa Puma Red Bull Bragantino Iii 2025 Feminina",
+      "imageUrl": "https://redbullshop.vtexassets.com/arquivos/ids/385513-600-600/0990830416_1.jpg?v=639016599672730000",
+      "productURL": "https://www.redbullshop.com.br/camisa-puma-red-bull-bragantino-iii-2025-feminina-0990830416/p"
+    },
+    {
+      "id": "0990980017",
+      "name": "Camisa Puma Red Bull Bragantino Iii 2025 Juvenil",
+      "imageUrl": "https://redbullshop.vtexassets.com/arquivos/ids/386205-600-600/0990980017_1.jpg?v=639027169214730000",
+      "productURL": "https://www.redbullshop.com.br/camisa-puma-red-bull-bragantino-iii-2025-juvenil-0990980017/p"
+    },
+    {
+      "id": "0990900017",
+      "name": "Camisa Polo Puma Red Bull Bragantino Casual Masculina",
+      "imageUrl": "https://redbullshop.vtexassets.com/arquivos/ids/396887-600-600/0990900017_1.jpg?v=639119593579270000",
+      "productURL": "https://www.redbullshop.com.br/camisa-polo-puma-red-bull-bragantino-casual-masculina-0990900017/p"
+    },
+    {
+      "id": "0990920020",
+      "name": "Camiseta Puma Red Bull Bragantino Casual Tee Masculina",
+      "imageUrl": "https://redbullshop.vtexassets.com/arquivos/ids/397159-600-600/0990920020_1.jpg?v=639119530835170000",
+      "productURL": "https://www.redbullshop.com.br/camiseta-puma-red-bull-bragantino-casual-tee-masculina-0990920020/p"
+    },
+    {
+      "id": "0990920017",
+      "name": "Camiseta Puma Red Bull Bragantino Casual Tee Masculina",
+      "imageUrl": "https://redbullshop.vtexassets.com/arquivos/ids/396983-600-600/0990920017_1.jpg?v=639119594342500000",
+      "productURL": "https://www.redbullshop.com.br/camiseta-puma-red-bull-bragantino-casual-tee-masculina-0990920017/p"
+    },
+    {
+      "id": "0990920012",
+      "name": "Camiseta Puma Red Bull Bragantino Casual Tee Masculina",
+      "imageUrl": "https://redbullshop.vtexassets.com/arquivos/ids/396965-600-600/0990920012_1.jpg?v=639119594185630000",
+      "productURL": "https://www.redbullshop.com.br/camiseta-puma-red-bull-bragantino-casual-tee-masculina-0990920012/p"
+    },
+    {
+      "id": "0990990018",
+      "name": "Camisa De Goleiro Puma Red Bull Bragantino Ii 2025 Juvenil",
+      "imageUrl": "https://redbullshop.vtexassets.com/arquivos/ids/384247-600-600/0990990018_1.jpg?v=639003925037470000",
+      "productURL": "https://www.redbullshop.com.br/camisa-de-goleiro-puma-red-bull-bragantino-ii-2025-juvenil-0990990018/p"
+    },
+    {
+      "id": "0990890015",
+      "name": "Camisa De Goleiro Puma Red Bull Bragantino Iii 2025 Masculina",
+      "imageUrl": "https://redbullshop.vtexassets.com/arquivos/ids/382747-600-600/0990890015_1.jpg?v=639119810036170000",
+      "productURL": "https://www.redbullshop.com.br/camisa-de-goleiro-puma-red-bull-bragantino-iii-masculina-0990890015/p"
+    },
+    {
+      "id": "0990840018",
+      "name": "Calção Puma Red Bull Bragantino I 2025 Masculino",
+      "imageUrl": "https://redbullshop.vtexassets.com/arquivos/ids/382841-600-600/0990840018_1.jpg?v=638998690785970000",
+      "productURL": "https://www.redbullshop.com.br/calcao-puma-red-bull-bragantino-i-2025-masculino-0990840018/p"
+    },
+    {
+      "id": "0991000018",
+      "name": "Calção De Goleiro Puma Red Bull Bragantino Ii 2025 Juvenil",
+      "imageUrl": "https://redbullshop.vtexassets.com/arquivos/ids/384338-600-600/0991000018_1.jpg?v=639003925484600000",
+      "productURL": "https://www.redbullshop.com.br/calcao-de-goleiro-puma-red-bull-bragantino-ii-2025-juvenil-0991000018/p"
+    },
+    {
+      "id": "0990880018",
+      "name": "Calção De Goleiro Puma Red Bull Bragantino Ii 2025 Masculino",
+      "imageUrl": "https://redbullshop.vtexassets.com/arquivos/ids/381878-600-600/0990880018_1.jpg?v=639083193985970000",
+      "productURL": "https://www.redbullshop.com.br/calcao-de-goleiro-puma-red-bull-bragantino-ii-2025-masculino-0990880018/p"
+    },
+    {
+      "id": "0990850017",
+      "name": "Calção Puma Red Bull Bragantino Iii 2025 Masculino",
+      "imageUrl": "https://redbullshop.vtexassets.com/arquivos/ids/385273-600-600/0990850017_1.jpg?v=639016598590200000",
+      "productURL": "https://www.redbullshop.com.br/calcao-puma-red-bull-bragantino-iii-2025-masculino-0990850017/p"
+    },
+    {
+      "id": "0990770017",
+      "name": "Boné Puma Red Bull Bragantino",
+      "imageUrl": "https://redbullshop.vtexassets.com/arquivos/ids/396963-600-600/0990770017_1.jpg?v=639119469456930000",
+      "productURL": "https://www.redbullshop.com.br/bone-puma-red-bull-bragantino-0990770017/p"
+    },
+    {
+      "id": "0990780286",
+      "name": "Mochila Puma Red Bull Bragantino Xl",
+      "imageUrl": "https://redbullshop.vtexassets.com/arquivos/ids/396885-600-600/0990780286_1.jpg?v=639119469143530000",
+      "productURL": "https://www.redbullshop.com.br/mochila-puma-red-bull-bragantino-xl-0990780286/p"
     }
   ],
-  "shopLink": "https://www.aesportiva.com.br/redbullshop"
+  "shopLink": "https://www.redbullshop.com.br"
 }
