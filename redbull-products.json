@@ -1,6 +1,24 @@
 {
   "products": [
     {
+      "id": "1000170017",
+      "name": "Camisa Puma Red Bull Bragantino Ii 2026 Masculina",
+      "imageUrl": "https://redbullshop.vtexassets.com/arquivos/ids/397168/1000170017_1.jpg?v=639120567567800000",
+      "productURL": "https://redbullshop.vtex.app/camisa-puma-red-bull-bragantino-away-2026-masculina-1000170017-400108343/p"
+    },
+    {
+      "id": "1000180017",
+      "name": "Camisa Puma Red Bull Bragantino Ii 2026 Feminina",
+      "imageUrl": "https://redbullshop.vtexassets.com/arquivos/ids/397246-600-600/1000180017_1.jpg?v=639120495099600000",
+      "productURL": "https://www.redbullshop.com.br/camisa-puma-red-bull-bragantino-ii-2026-feminina-1000180017/p"
+    },
+    {
+      "id": "1000220017",
+      "name": "Camisa Puma Red Bull Bragantino Ii 2026 Juvenil",
+      "imageUrl": "https://redbullshop.vtexassets.com/arquivos/ids/397214-600-600/1000220017_1.jpg?v=639120495331430000",
+      "productURL": "https://www.redbullshop.com.br/camisa-puma-red-bull-bragantino-ii-2026-juvenil-1000220017/p"
+    },
+    {
       "id": "0998070042",
       "name": "Camisa Puma Red Bull Bragantino I 2026 Masculina",
       "imageUrl": "https://redbullshop.vtexassets.com/arquivos/ids/392962-600-600/0998070042_1.jpg?v=639088331582800000",
@@ -19,6 +37,24 @@
       "productURL": "https://www.redbullshop.com.br/camisa-puma-red-bull-bragantino-i-2026-juvenil-0998210042/p"
     },
     {
+      "id": "1000190017",
+      "name": "Calção Puma Red Bull Bragantino Ii 2026 Feminino",
+      "imageUrl": "https://redbullshop.vtexassets.com/arquivos/ids/397200-600-600/1000190017_1.jpg?v=639120495416600000",
+      "productURL": "https://www.redbullshop.com.br/calcao-puma-red-bull-bragantino-ii-2026-feminino-1000190017/p"
+    },
+    {
+      "id": "1000210017",
+      "name": "Calção Puma Red Bull Bragantino Ii 2026 Juvenil",
+      "imageUrl": "https://redbullshop.vtexassets.com/arquivos/ids/397186-600-600/1000210017_1.jpg?v=639120495550300000",
+      "productURL": "https://www.redbullshop.com.br/calcao-puma-red-bull-bragantino-ii-2026-juvenil-1000210017/p"
+    },
+    {
+      "id": "1000200017",
+      "name": "Calção Puma Red Bull Bragantino Ii 2026 Masculino",
+      "imageUrl": "https://redbullshop.vtexassets.com/arquivos/ids/397228-600-600/1000200017_1.jpg?v=639120495004000000",
+      "productURL": "https://www.redbullshop.com.br/calcao-puma-red-bull-bragantino-ii-2026-masculino-1000200017/p"
+    },
+    {
       "id": "0997900017",
       "name": "Camisa Polo Puma Red Bull Bragantino Evostripe 26 Masculina",
       "imageUrl": "https://redbullshop.vtexassets.com/arquivos/ids/392173-600-600/0997900017_1.jpg?v=639083377910670000",
@@ -35,6 +71,12 @@
       "name": "Camisa Puma Red Bull Bragantino Evostripe 26 Masculina",
       "imageUrl": "https://redbullshop.vtexassets.com/arquivos/ids/392334-600-600/0997910017_1.jpg?v=639084232466700000",
       "productURL": "https://www.redbullshop.com.br/camisa-puma-red-bull-bragantino-evostripe-26-masculina-0997910017/p"
+    },
+    {
+      "id": "1000230017",
+      "name": "Meião Puma Red Bull Bragantino Ii 2026",
+      "imageUrl": "https://redbullshop.vtexassets.com/arquivos/ids/397264-600-600/1000230017_1.jpg?v=639120494875100000",
+      "productURL": "https://www.redbullshop.com.br/meiao-puma-red-bull-bragantino-ii-2026-1000230017/p"
     },
     {
       "id": "0998060020",
